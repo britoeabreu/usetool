@@ -1,5 +1,7 @@
 # USE - UML-based Specification Environment
 
+Bremen University
+
 (Note that this is a release of a research prototype. There is no
 warranty of any kind.)
 
@@ -161,7 +163,7 @@ project. A big "thank you" to all of you.
 * Mirco Kuhlmann
 * Arne Lindow
 * Oliver Radfelder
-* Mark Richters
+* Mark Richters (original author; PhD thesis)
 * Antje Werner
 * Paul Ziemann
 
@@ -196,3 +198,4 @@ very helpful and is highly appreciated.
 [6] Mark Richters. A Precise Approach to Validating UML Models and OCL
     Constraints. Phd thesis. Universitaet Bremen. Logos Verlag,
     Berlin, BISS Monographs, No. 14. 2002.
+    
